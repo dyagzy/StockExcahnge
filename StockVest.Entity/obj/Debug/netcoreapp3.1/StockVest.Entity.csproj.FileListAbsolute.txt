@@ -1,0 +1,9 @@
+C:\Users\DanielOyagha\Documents\Personal\Projects\StocksExchangeApp\StockVest.Entity\bin\Debug\netcoreapp3.1\StockVest.Entity.deps.json
+C:\Users\DanielOyagha\Documents\Personal\Projects\StocksExchangeApp\StockVest.Entity\bin\Debug\netcoreapp3.1\StockVest.Entity.dll
+C:\Users\DanielOyagha\Documents\Personal\Projects\StocksExchangeApp\StockVest.Entity\bin\Debug\netcoreapp3.1\StockVest.Entity.pdb
+C:\Users\DanielOyagha\Documents\Personal\Projects\StocksExchangeApp\StockVest.Entity\obj\Debug\netcoreapp3.1\StockVest.Entity.csprojAssemblyReference.cache
+C:\Users\DanielOyagha\Documents\Personal\Projects\StocksExchangeApp\StockVest.Entity\obj\Debug\netcoreapp3.1\StockVest.Entity.AssemblyInfoInputs.cache
+C:\Users\DanielOyagha\Documents\Personal\Projects\StocksExchangeApp\StockVest.Entity\obj\Debug\netcoreapp3.1\StockVest.Entity.AssemblyInfo.cs
+C:\Users\DanielOyagha\Documents\Personal\Projects\StocksExchangeApp\StockVest.Entity\obj\Debug\netcoreapp3.1\StockVest.Entity.csproj.CoreCompileInputs.cache
+C:\Users\DanielOyagha\Documents\Personal\Projects\StocksExchangeApp\StockVest.Entity\obj\Debug\netcoreapp3.1\StockVest.Entity.dll
+C:\Users\DanielOyagha\Documents\Personal\Projects\StocksExchangeApp\StockVest.Entity\obj\Debug\netcoreapp3.1\StockVest.Entity.pdb
